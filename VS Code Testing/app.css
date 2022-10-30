@@ -2,9 +2,14 @@ body {
     display: flex;
     align-items: center;
     height: 100 vh;
-    background-color: rgb(5, 12, 2);
+    background-color: teal;
 }
 
 .letter {
     transition: color 1000ms;
+}
+
+h1 {
+    font-size: 20 rem;
+
 }
