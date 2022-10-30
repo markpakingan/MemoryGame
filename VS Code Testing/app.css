@@ -2,7 +2,11 @@ body {
     display: flex;
     align-items: center;
     height: 100 vh;
+<<<<<<< HEAD
     background-color: orchid;
+=======
+    background-color: teal;
+>>>>>>> g
 }
 
 .letter {
@@ -10,5 +14,10 @@ body {
 }
 
 h1 {
+<<<<<<< HEAD
     font-size: 13 rem;
+=======
+    font-size: 20 rem;
+
+>>>>>>> g
 }
